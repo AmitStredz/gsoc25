@@ -21,9 +21,17 @@ Main focus areas:
 - **After:** Now shows **“Warnings”** when appropriate.  
 - Helps developers quickly distinguish between errors and warnings.  
 
-📸 *Before vs After UI:*  
-![Before - Only Errors](images/extensions-errors-before.png)  
-![After - Errors & Warnings](images/extensions-errors-after.png)  
+📸 *UI Update:*  
+<table>
+  <tr>
+    <td align="center"><b>Before</b></td>
+    <td align="center"><b>After</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/warnings_before.png" width="400"/></td>
+    <td><img src="assets/warnings_after.png" width="400"/></td>
+  </tr>
+</table>
 
 🔗 [Code Change](https://chromium-review.googlesource.com/c/chromium/src/+/6639214)  
 
@@ -34,7 +42,16 @@ Main focus areas:
 - No more manually finding the right SW or background page!  
 
 📸 *UI Update:*  
-![View in DevTools Button](images/view-in-devtools.png)  
+<table>
+  <tr>
+    <td align="center"><b>Before</b></td>
+    <td align="center"><b>After</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/devtools_before.png" width="400"/></td>
+    <td><img src="assets/devtools_after.png" width="400"/></td>
+  </tr>
+</table>
 
 🔗 [Code Change](https://chromium-review.googlesource.com/c/chromium/src/+/6702715)  
 
