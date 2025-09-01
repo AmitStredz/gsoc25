@@ -9,7 +9,7 @@ Hello, this is Amit! I created this repository as a dedicated hub for my final w
 ## 💡Project Links
 -  [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2025/projects/Z7zhQ3EO)
 -  [Project Proposal](https://docs.google.com/document/d/1XU1QfxlAaMTtltbn0AeuzqW03Fjzkamwy0F3yjdhA0A/edit?usp=sharing)
--  [WECG Github Link](https://docs.google.com/document/d/1XU1QfxlAaMTtltbn0AeuzqW03Fjzkamwy0F3yjdhA0A/edit?usp=sharing)
+-  [WECG Github Link](https://github.com/w3c/webextensions)
 -  [Changes Made](https://chromium-review.googlesource.com/q/owner:ponnan2112@gmail.com)
 
 ## 🛠️ Project Overview  
