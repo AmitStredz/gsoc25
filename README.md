@@ -110,7 +110,7 @@ chrome.alarms.create("dailyCheck", { delayInMinutes: 5, persistAcrossSessions: t
 
 ---
 
-### 6. ⚙️ DNR – Request Header Matching (Partial)  
+### 6. DNR – Request Header Matching (Partial)  
 > Think of content-blocking extensions. They often need to filter requests based on headers like `User-Agent`.  
 > I laid the groundwork for this by adding **IDL types and parsing logic** — ensuring headers are valid, consistent, and safe to use.  
 
@@ -122,7 +122,7 @@ chrome.alarms.create("dailyCheck", { delayInMinutes: 5, persistAcrossSessions: t
 
 ---
 
-### 7. 🧪 DNR – Regex Substitution Transforms *(Work in Progress)*  
+### 7. DNR – Regex Substitution Transforms *(Work in Progress)*  
 > Imagine capturing a query string like `q=hello%20world`. Without decoding, it looks messy.  
 > With my WIP feature, you can transform regex groups (e.g., `decodeURIComponent`) before substitution → `"hello world"` instead of `"hello%20world"`.  
 
