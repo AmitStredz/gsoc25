@@ -6,6 +6,12 @@ Hello, this is Amit! I created this repository as a dedicated hub for my final w
 
 ---
 
+## 💡Project Links
+-  [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2025/projects/Z7zhQ3EO)
+-  [Project Proposal](https://docs.google.com/document/d/1XU1QfxlAaMTtltbn0AeuzqW03Fjzkamwy0F3yjdhA0A/edit?usp=sharing)
+-  [WECG Github Link](https://docs.google.com/document/d/1XU1QfxlAaMTtltbn0AeuzqW03Fjzkamwy0F3yjdhA0A/edit?usp=sharing)
+-  [Changes Made](https://chromium-review.googlesource.com/q/owner:ponnan2112@gmail.com)
+
 ## 🛠️ Project Overview  
 The goal: **Improve the Chrome Extensions developer experience** by enhancing debugging tools, APIs, and extension workflows.  
 
@@ -157,9 +163,17 @@ I am deeply grateful to my mentors:
 
 - **Oliver Dunk**  
 - **Solomon Kinard**  
-- **Sreeja Kamishetty**  
+- **Sreeja Kamishetty**
 
 for their guidance, patience, and detailed reviews. Every discussion helped me sharpen my approach and think like a browser engineer.  
+
+<div align="center">
+
+| ![](https://lh3.googleusercontent.com/a-/ALV-UjUzUEflsvjipGd7cvZEsFUHskmlfPymb4qDCb2t3fhdt4oaM5iB=s160-p-k-rw-no) | ![](https://avatars.githubusercontent.com/u/297660?v=4) | ![](https://lh3.googleusercontent.com/a-/ALV-UjWTqIdwc30XPXzudx8IHbPc2GZiXWXXPs5sXTWwp6sU6ks_yJuLKA=s160-p-k-rw-no) |
+|:---:|:---:|:---:|
+| **Oliver Dunk**<br>[✉️ Email](mailto:oliverdunk@google.com)<br>[🔗 GitHub](https://github.com/oliverdunk) | **Solomon Kinard**<br>[✉️ Email](mailto:solomonkinard@google.com)<br>[🔗 GitHub](https://github.com/solomonkinard) | **Sreeja Kamishetty**<br>[✉️ Email](mailto:sreejakshetty@google.com)<br>[🔗 GitHub](https://github.com/sreejakamishetty) |
+
+</div>
 
 ---
 
